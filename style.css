@@ -1,0 +1,21 @@
+header {
+  color: black;
+}
+
+h1 {
+  font: serif;
+  color: red;
+  padding-right: 500px;
+}
+
+nav li,nav a {
+    display: inline-block;
+}
+
+nav {
+  color: red;
+}
+
+.header img {
+  padding-right: 500px;
+}
